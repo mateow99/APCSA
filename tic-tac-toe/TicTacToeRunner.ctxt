@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=
+comment0.target=TicTacToeRunner()
+comment0.text=\n\ Constructs\ a\ TicTacToe\ Game.\n
+comment1.params=
+comment1.target=void\ colorX()
+comment1.text=\n\ \n
+comment2.params=
+comment2.target=void\ colorO()
+comment2.text=\n\ \n
+comment3.params=
+comment3.target=void\ makeBoard()
+comment3.text=\n\ Initializes\ the\ board\ to\ white,\ empty\ tiles.\n
+comment4.params=
+comment4.target=void\ checkTie()
+comment4.text=\n\ Checks\ for\ tie\ and\ sets\ messsage\ accordingly\n
+comment5.params=loc
+comment5.target=boolean\ determineWinner(info.gridworld.grid.Location)
+comment5.text=\n\ Determines\ the\ winner.\ Currently\ written\ in\ O(1),\ independent\ of\ N,\ \n\ the\ number\ of\ pieces\ currently\ played.\n\ \n\ @param\ \ \ loc\ \ \ location\ of\ the\ last\ piece\ just\ played\n\ @return\ \ true\ \ if\ the\ piece\ just\ played\ at\ position\ <code>loc</code>\ completes\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ a\ win\ for\ the\ player\ who\ just\ moved;\ otherwise,\n\ \ \ \ \ \ \ \ \ \ false\ \n
+comment6.params=loc
+comment6.target=boolean\ locationClicked(info.gridworld.grid.Location)
+comment6.text=\n\ Determines\ whether\ it\ is\ a\ legal\ move\ and,\ if\ so,\ places\ a\ piece\ \n\ and\ calls\ determineWinner.\ \ This\ method\ is\ called\ when\ the\ \n\ current\ player\ clicks\ and\ attempts\ to\ place\ a\ piece.\n\ \n\ @param\ \ loc\ location\ passed\ from\ the\ GUI\ where\ the\ use\ just\ clicked\n\ @return\ true\ \n
+comment7.params=args
+comment7.target=void\ main(java.lang.String[])
+comment7.text=\n\ Sets\ up\ the\ game\ and\ starts\ it.\n\ \n\ @param\ args\ \ information\ from\ the\ command\ line\n
+numComments=8

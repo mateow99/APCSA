@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=
+comment0.target=GuessingGame()
+comment0.text=\n\ Creates\ an\ object\ for\ the\ class\n
+comment1.params=
+comment1.target=int\ getRandomNumber()
+comment1.text=\n\ Creates\ a\ random\ number\n\ @return\ \ the\ random\ number\ created\ by\ the\ method\n
+comment2.params=
+comment2.target=int\ getUserGuess()
+comment2.text=\n\ Obtains\ the\ user's\ guess\ from\ scanner\n\ @return\ \ the\ integer\ that\ the\ user\ guessed\n
+comment3.params=guess
+comment3.target=void\ giveUserFeedback(int)
+comment3.text=\n\ The\ user's\ input\ creates\ an\ output\ comparing\ the\ guess\ and\ the\ number\n\ @param\ \ \ guess\ the\ parameter\ is\ the\ user's\ guess\n
+comment4.params=userGuess
+comment4.target=boolean\ isWinner(int)
+comment4.text=\n\ Checks\ the\ guess\ against\ the\ number\ to\ see\ if\ the\ guess\ was\ correct\n\ @param\ \ \ userGuess\ the\ parameter\ is\ the\ user's\ guess\n\ @return\ \ true\ if\ the\ user's\ guess\ is\ correct;\ otherwise,\n\ \ \ \ \ \ \ \ \ \ false\n
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+comment5.text=\n\ Allows\ the\ user\ to\ play\ the\ game\n\ @param\ \ \ args\ arguements\ from\ a\ command\ line\n
+numComments=6

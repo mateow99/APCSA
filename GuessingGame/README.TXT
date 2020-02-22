@@ -1,4 +1,12 @@
- PROJECT TITLE: Guessing Gamee
-PURPOSE OF PROJECT: Play a simple guessing game to find a number between 1-100
-HOW TO START THIS PROJECT: Import packages into BlueJ and run 
-AUTHORS: Mateo Weiner
+------------------------------------------------------------------------
+This is the project README file. Here, you should describe your project.
+Tell the reader (someone who does not know anything about this project)
+all he/she needs to know. The comments should usually include at least:
+------------------------------------------------------------------------
+
+PROJECT TITLE:
+PURPOSE OF PROJECT:
+VERSION or DATE:
+HOW TO START THIS PROJECT:
+AUTHORS:
+USER INSTRUCTIONS:
